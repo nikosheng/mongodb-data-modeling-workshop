@@ -1,0 +1,8 @@
+pymongo==4.19.0
+certifi==2026.10.19
+python-dotenv==1.0.1
+Faker==30.3.0
+pandas==2.2.3
+matplotlib==3.9.2
+jupyter==1.1.1
+tabulate==0.9.0
